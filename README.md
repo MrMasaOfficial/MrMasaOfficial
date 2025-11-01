@@ -19,56 +19,34 @@
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### Cybersecurity & Specialties
 <p align="center">
-  <img alt="Reverse Engineering" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ghidra.svg" width="50" title="Reverse Engineering"/>
-  <img alt="Malware Analysis" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/windows.svg" width="50" title="Malware Analysis"/>
-  <img alt="Red Team" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="50" title="Red Team"/>
-  <img alt="Network Analysis" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" width="50" title="Network Analysis"/>
-  <img alt="Web Pentesting" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/burpsuite.svg" width="50" title="Web Pentesting"/>
+  <img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse_Engineering-9C27B0?style=for-the-badge&logo=linux"/>
+  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware_Analysis-F44336?style=for-the-badge&logo=windows"/>
+  <img alt="Red Team" src="https://img.shields.io/badge/Red_Team-FF5722?style=for-the-badge&logo=github"/>
+  <img alt="Network Analysis" src="https://img.shields.io/badge/Network_Analysis-00BCD4?style=for-the-badge&logo=wireshark"/>
+  <img alt="Web Pentesting" src="https://img.shields.io/badge/Web_Pentesting-FF9800?style=for-the-badge&logo=burpsuite"/>
 </p>
 
 ### Tools & Automation
 <p align="center">
-  <img alt="Ghidra" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ghidra.svg" width="50"/>
-  <img alt="IDA Pro" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ida.svg" width="50"/>
-  <img alt="Burp Suite" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/burpsuite.svg" width="50"/>
-  <img alt="Wireshark" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" width="50"/>
-  <img alt="Automation" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ansible.svg" width="50"/>
+  <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-6C6C6C?style=for-the-badge"/>
+  <img alt="IDA Pro" src="https://img.shields.io/badge/IDA_Pro-FF5733?style=for-the-badge"/>
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge"/>
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge"/>
+  <img alt="Automation" src="https://img.shields.io/badge/Automation-00BCD4?style=for-the-badge"/>
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-673AB7?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔍 Core Focus Areas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ghidra.svg" width="120" title="Reverse Engineering"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/windows.svg" width="120" title="Malware Analysis"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="120" title="Red Team"/>
-</p>
-
-- **Reverse Engineering:** Analyze software binaries, understand internals, and research vulnerabilities.  
-- **Malware Analysis:** Static & dynamic malware analysis, threat research, and reporting.  
-- **Red Team Operations:** Simulate attacks, penetration testing, and security audits.
-
----
-
-## 📂 Featured Projects
-<p align="center">
-  <a href="https://github.com/MrMasaOfficial">
-    <img src="https://via.placeholder.com/300x150.png?text=Reverse+Tool" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/MrMasaOfficial">
-    <img src="https://via.placeholder.com/300x150.png?text=Malware+Analyzer" alt="Project 2"/>
-  </a>
-  <a href="https://github.com/MrMasaOfficial">
-    <img src="https://via.placeholder.com/300x150.png?text=Red+Team+Toolkit" alt="Project 3"/>
-  </a>
-</p>
-
----
 
 ## 🌐 Connect with Me
 <p align="center">
