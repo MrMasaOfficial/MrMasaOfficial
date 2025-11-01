@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MrMasaOfficial.png" width="150" alt="MASA Avatar"/>
+  <img src="https://f.top4top.io/p_35871hnw91.jpg" width="150" alt="MASA Avatar"/>
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Mamdouh Fathy (MASA) 👋</h1>
