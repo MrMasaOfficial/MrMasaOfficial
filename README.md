@@ -10,58 +10,60 @@
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Skills
 
-<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:15px;">
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px;">
 
-<!-- Programming Languages -->
-<div style="background: linear-gradient(135deg,#3776AB,#4B8BBE); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+<!-- Programming -->
+<div style="background: linear-gradient(135deg,#3776AB,#4B8BBE); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:white;">Python</p>
 </div>
 
-<div style="background: linear-gradient(135deg,#239120,#43A047); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+<div style="background: linear-gradient(135deg,#239120,#43A047); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:white;">C#</p>
 </div>
 
-<div style="background: linear-gradient(135deg,#00599C,#1976D2); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+<div style="background: linear-gradient(135deg,#00599C,#1976D2); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:white;">C++</p>
 </div>
 
-<div style="background: linear-gradient(135deg,#007396,#29B6F6); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
-  <img src="https://media.giphy.com/media/l0HlUQQ7XrJkZlA5C/giphy.gif" width="48"/>
-  <p style="margin-top:10px; font-weight:bold; color:white;">Java</p>
-</div>
-
-<div style="background: linear-gradient(135deg,#F7DF1E,#FFC107); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+<div style="background: linear-gradient(135deg,#F7DF1E,#FFC107); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:black;">JavaScript</p>
 </div>
 
-<!-- Cybersecurity -->
-<div style="background: linear-gradient(135deg,#9C27B0,#BA68C8); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+</div>
+
+---
+
+## 🕵️ Cybersecurity Skills
+
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px;">
+
+<div style="background: linear-gradient(135deg,#9C27B0,#BA68C8); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:white;">Reverse Engineering</p>
 </div>
 
-<div style="background: linear-gradient(135deg,#F44336,#E57373); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+<div style="background: linear-gradient(135deg,#F44336,#E57373); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:white;">Malware Analysis</p>
 </div>
 
-<div style="background: linear-gradient(135deg,#FF5722,#FF8A65); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+<div style="background: linear-gradient(135deg,#FF5722,#FF8A65); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:white;">Red Team</p>
 </div>
 
-<div style="background: linear-gradient(135deg,#00BCD4,#4DD0E1); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+<div style="background: linear-gradient(135deg,#00BCD4,#4DD0E1); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/xUPGct9K8i0iT1E4w0/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:white;">Network Analysis</p>
 </div>
 
-<div style="background: linear-gradient(135deg,#FF9800,#FFB74D); padding:15px; border-radius:12px; width:160px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s;">
+<div style="background: linear-gradient(135deg,#FF9800,#FFB74D); padding:15px; border-radius:15px; width:160px; text-align:center; box-shadow:0 6px 20px rgba(0,0,0,0.3); transition: all 0.3s;">
   <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" width="48"/>
   <p style="margin-top:10px; font-weight:bold; color:white;">Web Pentesting</p>
 </div>
@@ -70,7 +72,31 @@
 
 ---
 
+## 💼 Projects
+
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px;">
+
+<div style="background: linear-gradient(135deg,#673AB7,#9575CD); padding:15px; border-radius:15px; width:200px; text-align:center; box-shadow:0 6px 25px rgba(0,0,0,0.3); transition: all 0.3s;">
+  <img src="https://media.giphy.com/media/l3vR0sI6U0y8Y/giphy.gif" width="60"/>
+  <p style="margin-top:10px; font-weight:bold; color:white;">Malware Analyzer Tool</p>
+</div>
+
+<div style="background: linear-gradient(135deg,#009688,#4DB6AC); padding:15px; border-radius:15px; width:200px; text-align:center; box-shadow:0 6px 25px rgba(0,0,0,0.3); transition: all 0.3s;">
+  <img src="https://media.giphy.com/media/3o6MbcFZQk2bLrjw2s/giphy.gif" width="60"/>
+  <p style="margin-top:10px; font-weight:bold; color:white;">Reverse Engineering Suite</p>
+</div>
+
+<div style="background: linear-gradient(135deg,#FF5722,#FF8A65); padding:15px; border-radius:15px; width:200px; text-align:center; box-shadow:0 6px 25px rgba(0,0,0,0.3); transition: all 0.3s;">
+  <img src="https://media.giphy.com/media/3o6MbcKfZk3V/giphy.gif" width="60"/>
+  <p style="margin-top:10px; font-weight:bold; color:white;">Red Team Toolkit</p>
+</div>
+
+</div>
+
+---
+
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.facebook.com/CODEWITHMASA/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/codewithmasa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
